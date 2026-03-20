@@ -1,0 +1,8 @@
+{
+  "name": "Aegis AI: Home Security NVR",
+  "description": "A high-performance AI-powered network video recorder (NVR) dashboard with real-time object detection, motion analysis, and security event management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
